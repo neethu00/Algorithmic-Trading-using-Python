@@ -1,2 +1,3 @@
 # Algorithmic-Trading-using-Python
 Algorithmic Trading is a type of trading that uses automated systems to make trading decisions. 
+Algorithmic Trading is a type of trading that uses automated systems to make trading decisions. These systems use pre-defined rules to analyze market data and execute trades based on those rules. Here we are using momentum strategy ,A momentum strategy is a way of investing where you buy stocks or other assets that have recently done well and sell those that have recently done poorly. The idea is that if a stock or asset has done well recently, it's likely to continue doing well, and if it has done poorly recently, it's likely to continue doing poorly.
